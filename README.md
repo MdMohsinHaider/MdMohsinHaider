@@ -1,4 +1,4 @@
-![logo](https://github.com/MdMohsinHaider/Md-Mohsin-Haider/blob/main/wallpaper.jpg)
+![logo](https://github.com/MdMohsinHaider/MdMohsinHaider/blob/main/photo_6186031179157845830_x.jpg)
 <h1 align="center">Hi 👋, I'm Md Mohsin Haider</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
