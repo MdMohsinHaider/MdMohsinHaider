@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Mohsin Haider</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coading" width="150" src="https://static.wikia.nocookie.net/vsbattles/images/5/58/Hacking.gif/revision/latest/scale-to-width-down/1200?cb=20150210152035">
+<img align="right" alt="coading" width="400" src="https://static.wikia.nocookie.net/vsbattles/images/5/58/Hacking.gif/revision/latest/scale-to-width-down/1200?cb=20150210152035">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmohsinhaider&label=Profile%20views&color=0e75b6&style=flat" alt="mdmohsinhaider" /> </p>
 
