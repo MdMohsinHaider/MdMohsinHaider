@@ -1,10 +1,10 @@
 ![logo](https://github.com/MdMohsinHaider/MdMohsinHaider/blob/main/fill.jpg)
-<h1 align="center">Hi 👋, I'm Md Mohsin Haider</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hi 👋🙂, I'm Md Mohsin Haider </h1>
+<h3 align="center">A passionate Software Engineer from India </h3>
 
-<img align="right" alt="coading" width="200" src="https://static.wikia.nocookie.net/vsbattles/images/5/58/Hacking.gif/revision/latest/scale-to-width-down/1200?cb=20150210152035">
+<img align="right" alt="coading" width="330" src="https://static.wikia.nocookie.net/vsbattles/images/5/58/Hacking.gif/revision/latest/scale-to-width-down/1200?cb=20150210152035">
 
-<img align="right" alt="coading" width="200" src="">
+<img align="" alt="Work" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmohsinhaider&label=Profile%20views&color=0e75b6&style=flat" alt="mdmohsinhaider" /> </p>
 
@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmohsinhaider&show_icons=true&locale=en" alt="mdmohsinhaider" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohsinhaider&" alt="mdmohsinhaider" /></p>
+
+<img align="center" alt="mind" width="fit-content" block-size= "fit-content" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
