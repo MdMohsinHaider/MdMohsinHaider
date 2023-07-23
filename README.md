@@ -4,7 +4,7 @@
 
 <img align="right" alt="coading" width="200" src="https://static.wikia.nocookie.net/vsbattles/images/5/58/Hacking.gif/revision/latest/scale-to-width-down/1200?cb=20150210152035">
 
-<img align="" alt="Work" width="250" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="" alt="Work" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmohsinhaider&label=Profile%20views&color=0e75b6&style=flat" alt="mdmohsinhaider" /> </p>
 
