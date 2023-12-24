@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Software Engineer from India </h3>
 
 <img align="right" alt="coading" width="200" src="https://static.wikia.nocookie.net/vsbattles/images/5/58/Hacking.gif/revision/latest/scale-to-width-down/1200?cb=20150210152035">
-
 <img align="" alt="Work" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmohsinhaider&label=Profile%20views&color=0e75b6&style=flat" alt="mdmohsinhaider" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmohsinhaider" alt="mdmohsinhaider" /></a> </p>
@@ -39,5 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmohsinhaider&show_icons=true&locale=en" alt="mdmohsinhaider" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohsinhaider&" alt="mdmohsinhaider" /></p>
-
-<img align="center" alt="mind" width="fit-content" src="https://camo.githubusercontent.com/ee3019c3a1b55e7e2c3ceba9834ef9b32c7e0f6e0da66c450fdfb372d9e88204/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30322f30303038362d6465736b2d616e696d2d76302e332e676966">
+<img align="" alt="Work" src="https://i.pinimg.com/originals/4a/45/68/4a4568629a894d006d264604e9b9ab6a.jpg">
+<img align="center" alt="mind" width="fit-content" src="">
