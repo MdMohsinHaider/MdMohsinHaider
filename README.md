@@ -38,4 +38,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohsinhaider&" alt="mdmohsinhaider" /></p>
 <img align="" alt="Work" src="https://i.pinimg.com/originals/4a/45/68/4a4568629a894d006d264604e9b9ab6a.jpg">
-<img align="center" alt="mind" width="fit-content" src="">
