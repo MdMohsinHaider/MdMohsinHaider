@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋🙂, I'm Md Mohsin Haider </h1>
 <h3 align="center">A passionate Software Engineer from India </h3>
 
-<img align="right" alt="coading" width="49%" src="https://static.wikia.nocookie.net/vsbattles/images/5/58/Hacking.gif/revision/latest/scale-to-width-down/1200?cb=20150210152035">
-<img align="" alt="Work" width="49%" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="right" alt="coading" width="20%" src="https://static.wikia.nocookie.net/vsbattles/images/5/58/Hacking.gif/revision/latest/scale-to-width-down/1200?cb=20150210152035">
+<img align="" alt="Work" width="20%" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmohsinhaider&label=Profile%20views&color=0e75b6&style=flat" alt="mdmohsinhaider" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmohsinhaider" alt="mdmohsinhaider" /></a> </p>
